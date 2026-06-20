@@ -1,4 +1,25 @@
-# 100Hires Portfolio Project
+# Cursor IDE Setup
+
+## Tools Installed
+- Cursor IDE
+- Claude Code extension (Anthropic)
+- Codex extension (OpenAI)
+
+## Steps Completed
+1. Installed Cursor IDE on Windows
+2. Installed the Claude Code extension
+3. Installed the Codex extension
+4. Created this public GitHub repository
+5. Cloned the repository, and opened it in Cursor
+6. Wrote this README
+7. Committed and pushed to GitHub
+
+## Issues Encountered
+Got a warning about cloning an empty repository. This was expected, since the GitHub repo wasn't initialized with a README at creation time.
+
+---
+
+# 100Hires Portfolio Project — Cold Outreach Research
 
 Research repository for building a **Cold Outreach Pipeline for B2B SaaS** playbook.
 
@@ -28,7 +49,7 @@ We prioritized **practitioners who run outbound systems**, not generic sales mot
 
 | Expert | Angle |
 |--------|-------|
-| Eric Nowoslawski | Agency operator; 8M emails/month; Clay + AI list building |
+| Eric Nowoslawski | Agency operator; 1M+ emails/month; Clay + AI list building |
 | Jordan Crawford | Signal-based GTM; PQS/PVP frameworks |
 | Will Allred | Copy psychology; Lavender email coaching product |
 | Jason Bay | Messaging Matrix; trained Shopify, Gong, Rippling |
@@ -60,11 +81,22 @@ scripts/
 - Python + [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) for transcript collection
 - Manual curation of LinkedIn posts (public posts, collected 2026-06-20)
 
-## Cursor IDE setup (prior step)
+## Setup & usage
 
-- Installed Cursor IDE on Windows
-- Installed Claude Code and Codex extensions
-- Created and cloned this public GitHub repository
+To re-run or extend transcript collection:
+
+```bash
+pip install -r requirements.txt
+
+# Fetch transcripts for all authors in the manifest
+python scripts/fetch_transcripts.py
+
+# Fetch for a single author only
+python scripts/fetch_transcripts.py "Eric Nowoslawski"
+python scripts/fetch_transcripts.py "Jordan Crawford"
+```
+
+Transcripts are written to `research/youtube-transcripts/<author-slug>/<video-id>.md`. The manifest at `research/video-manifest.json` controls which videos are fetched.
 
 ## Next steps
 
