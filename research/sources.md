@@ -2,7 +2,7 @@
 
 **Topic:** Cold outreach pipeline for B2B SaaS  
 **Last updated:** 2026-06-20  
-**Collection goal:** 10 high-signal practitioners who build and run outbound systems.
+**Collection goal:** 10 high-signal practitioners who build and run outbound systems, not generic sales influencers.
 
 ## Selection criteria
 
@@ -32,7 +32,7 @@ Each expert below meets at least two of:
 - **LinkedIn:** https://www.linkedin.com/in/outboundphd/
 - **YouTube:** https://www.youtube.com/@EricNowoslawski
 - **Collected:** 2026-06-20
-- **Why this voice:** Runs 1M+ cold emails/month for B2B SaaS clients (Notion, Intercom, Clay). Teaches signal-based list building with Clay + AI—not template spray. Former Clay team member; shows live workflows, not theory.
+- **Why this voice:** Runs 1M+ cold emails/month for B2B SaaS clients (Notion, Intercom, Clay). Teaches signal-based list building with Clay + AI, not template spray. Former Clay team member; shows live workflows, not theory.
 
 ---
 
@@ -53,7 +53,7 @@ Each expert below meets at least two of:
 - **LinkedIn:** https://www.linkedin.com/in/willallred/
 - **YouTube:** https://www.youtube.com/@LavenderAI (Lavender channel)
 - **Collected:** 2026-06-20
-- **Why this voice:** Built a product around cold email psychology and coaching. Shows why-you-reaching-out framing, brevity, and mobile-first copy—tactical depth from someone who instrumented rep behavior at scale.
+- **Why this voice:** Built a product around cold email psychology and coaching. Shows why-you-reaching-out framing, brevity, and mobile-first copy. Tactical depth from someone who instrumented rep behavior at scale.
 
 ---
 
@@ -64,7 +64,7 @@ Each expert below meets at least two of:
 - **YouTube:** https://www.youtube.com/@JasonBay
 - **Website:** https://outboundsquad.com/
 - **Collected:** 2026-06-20
-- **Why this voice:** Messaging Matrix + KISS sequencing frameworks. Analyzed 85M+ cold emails with Gong/ZoomInfo. Human-led, AI-assisted outbound—disqualify/offer/provoke model for 2025.
+- **Why this voice:** Messaging Matrix + KISS sequencing frameworks. Analyzed 85M+ cold emails with Gong/ZoomInfo. Human-led, AI-assisted outbound using a disqualify/offer/provoke model for 2025.
 
 ---
 
@@ -73,7 +73,7 @@ Each expert below meets at least two of:
 - **Role:** Sales coach; creator of the 4T cold email framework
 - **LinkedIn:** https://www.linkedin.com/in/josh-braun/
 - **Website:** https://joshbraun.com/
-- **YouTube:** No dedicated channel — content appears on partner channels (Cognism, LeadIQ, Sales Leadership Show). Transcript collected from: https://www.youtube.com/watch?v=9cKZVyAQ3mY
+- **YouTube:** No dedicated channel; content appears on partner channels (Cognism, LeadIQ, Sales Leadership Show). Transcript collected from: https://www.youtube.com/watch?v=9cKZVyAQ3mY
 - **Collected:** 2026-06-20
 - **Why this voice:** Anti-hype copywriter who teaches skeptical-prospect psychology (Trigger → Think → Third-party credibility → Talk). Practical frameworks used by Woodpecker and top SDR teams; avoids "salesy" CTAs.
 
@@ -85,7 +85,7 @@ Each expert below meets at least two of:
 - **LinkedIn:** https://www.linkedin.com/in/nils-schneider/
 - **YouTube:** Instantly channel + founder tutorials
 - **Collected:** 2026-06-20
-- **Why this voice:** Owns the deliverability layer—SPF/DKIM/DMARC, domain warmup, volume limits, ESP matching. Shows infrastructure before copy; essential for any outbound playbook.
+- **Why this voice:** Owns the deliverability layer: SPF/DKIM/DMARC, domain warmup, volume limits, ESP matching. Shows infrastructure before copy; essential for any outbound playbook.
 
 ---
 
@@ -95,7 +95,7 @@ Each expert below meets at least two of:
 - **LinkedIn:** https://www.linkedin.com/in/armand-farrokh/
 - **YouTube:** https://www.youtube.com/@30MPC
 - **Collected:** 2026-06-20
-- **Why this voice:** Scaled Pave from $0 to $13M ARR. Created the 3x3 cold email rule (3 paragraphs, 3 lines each). Operator who publishes playbooks reps actually use—not motivational content.
+- **Why this voice:** Scaled Pave from $0 to $13M ARR. Created the 3x3 cold email rule (3 paragraphs, 3 lines each). Operator who publishes playbooks reps actually use, not motivational content.
 
 ---
 

@@ -1,6 +1,6 @@
-# Jordan Crawford — LinkedIn Posts
+# Jordan Crawford: LinkedIn Posts
 
-## 2023 — The main mistake in outbound messaging: {{finding}} → {{offer}}
+## 2023: The main mistake in outbound messaging: {{finding}} → {{offer}}
 
 - **URL:** https://www.linkedin.com/posts/jordancrawford_heres-the-main-mistake-people-make-in-outbound-activity-7016482701486542848-mSCO
 - **Collected:** 2026-06-20
@@ -23,11 +23,11 @@
 >
 > And, if you don't really have anything unique to say, that none of your peers can say, growth is not your key problem. And no amount of amazing writing AI will be able to distill your value. Because only you and your customers know it.
 
-**Why collected:** Core PVP thesis — the insight (ocean) must come before the offer. If your unique insight is absent, AI personalization cannot substitute for it. Foundational for the ICP and copy stages of the playbook.
+**Why collected:** Core PVP thesis: the insight (ocean) must come before the offer. If your unique insight is absent, AI personalization cannot substitute for it. Foundational for the ICP and copy stages of the playbook.
 
 ---
 
-## 2024 — This workflow replaces the SDR (for outbound)
+## 2024: This workflow replaces the SDR (for outbound)
 
 - **URL:** https://www.linkedin.com/posts/jordancrawford_this-workflow-replaces-the-sdr-for-outbound-activity-7160062549139329024-CSA7
 - **Collected:** 2026-06-20
@@ -44,4 +44,4 @@
 >
 > Cost: enrichment ranging from $0.002 to $0.05 per company. Startups can achieve results at 1/50th the cost of traditional SDR models.
 
-**Why collected:** Blueprint GTM's 2024 AI-first outbound architecture — pain targeting via embeddings rather than firmographic filters. Shows the full stack (targeting → research → sequencing) at operational cost, useful for the list-building and sequence-design chapters.
+**Why collected:** Blueprint GTM's 2024 AI-first outbound architecture using pain targeting via embeddings rather than firmographic filters. Shows the full stack (targeting → research → sequencing) at operational cost, useful for the list-building and sequence-design chapters.

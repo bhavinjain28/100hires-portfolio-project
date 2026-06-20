@@ -8,7 +8,7 @@
 
 ## Summary
 
-30MPC co-host Armand Farrokh with Jason Bay on CTAs, attention levers, and the upcoming cold email course—operator perspective on what books meetings.
+30MPC co-host Armand Farrokh with Jason Bay on CTAs, attention levers, and the upcoming cold email course. Operator perspective on what books meetings.
 
 ## Transcript
 

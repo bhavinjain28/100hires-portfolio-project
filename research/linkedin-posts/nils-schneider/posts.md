@@ -1,6 +1,6 @@
-# Nils Schneider — LinkedIn Posts
+# Nils Schneider: LinkedIn Posts
 
-## 2025 — Deliverability fundamentals
+## 2025: Deliverability fundamentals
 
 - **URL:** https://www.linkedin.com/posts/nils-schneider_besides-your-offer-market-fit-and-your-copy-activity-7306320720945422336-dpuP
 - **Collected:** 2026-06-20
@@ -12,11 +12,11 @@
 >
 > Most cold email failures happen before anyone reads your message.
 
-**Why collected:** Infrastructure checklist for deliverability stage—from the CEO of a major sending platform.
+**Why collected:** Infrastructure checklist for deliverability stage, from the CEO of a major sending platform.
 
 ---
 
-## 2024 — SPF, DKIM, DMARC automation
+## 2024: SPF, DKIM, DMARC automation
 
 - **URL:** https://www.linkedin.com/posts/nils-schneider_ever-struggled-with-setting-up-spf-dkim-activity-7199082453087477760-r-f7
 - **Collected:** 2026-06-20

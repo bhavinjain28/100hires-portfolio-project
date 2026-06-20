@@ -19,7 +19,7 @@ Got a warning about cloning an empty repository. This was expected, since the Gi
 
 ---
 
-# 100Hires Portfolio Project — Cold Outreach Research
+# 100Hires Portfolio Project: Cold Outreach Research
 
 Research repository for building a **Cold Outreach Pipeline for B2B SaaS** playbook.
 
@@ -28,7 +28,7 @@ Research repository for building a **Cold Outreach Pipeline for B2B SaaS** playb
 **Cold outreach pipeline for B2B SaaS** was selected because:
 
 - Practitioners publish tactical, step-by-step content on YouTube (ideal for transcript API collection)
-- The expert pool is deep and differentiated—operators, copy specialists, deliverability engineers, and signal-based GTM builders
+- The expert pool is deep and differentiated: operators, copy specialists, deliverability engineers, and signal-based GTM builders
 - The topic maps cleanly to a structured playbook: ICP → list building → copy → sequences → deliverability → metrics
 - Material is stable (unlike fast-moving AI SEO topics) but still current for 2025–2026
 
@@ -60,7 +60,7 @@ We prioritized **practitioners who run outbound systems**, not generic sales mot
 | Kyle Coleman | Enterprise omni-channel; 12yr cold email practitioner |
 | Nick Cegelski | Enterprise AE; cold email teardowns |
 
-Armand Farrokh and Nick Cegelski both co-host 30 Minutes to President's Club but cover distinct angles: Armand brings the operator/VP Sales perspective (built pipeline from $0 to $13M ARR at Pave), while Nick brings enterprise AE deal context and email teardowns. Including both is deliberate — they represent the two dominant lenses on cold email from the same practitioner community.
+Armand Farrokh and Nick Cegelski both co-host 30 Minutes to President's Club, but they cover distinct angles. Armand brings the operator/VP Sales perspective (built pipeline from $0 to $13M ARR at Pave) while Nick brings enterprise AE deal context and email teardowns. Both are included intentionally as they represent the two dominant lenses on cold email from the same practitioner community.
 
 See [research/sources.md](research/sources.md) for links, collection dates, and annotations.
 

@@ -1,6 +1,6 @@
-# Armand Farrokh — LinkedIn Posts
+# Armand Farrokh: LinkedIn Posts
 
-## 2024 — The 3x3 rule for cold email
+## 2024: The 3x3 rule for cold email
 
 - **URL:** https://www.linkedin.com/posts/armand-farrokh_30mpc-sales-sdr-activity-6854096838383943681-Ggbt
 - **Collected:** 2026-06-20
@@ -16,7 +16,7 @@
 
 ---
 
-## 2025 — Pipeline generation discipline
+## 2025: Pipeline generation discipline
 
 - **URL:** https://www.linkedin.com/in/armand-farrokh/
 - **Collected:** 2026-06-20

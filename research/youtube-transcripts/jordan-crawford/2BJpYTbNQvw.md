@@ -8,7 +8,7 @@
 
 ## Summary
 
-How GTM engineers move from static prompts to autonomous agents for outbound—Blueprint GTM's view on Claude Code and datadriven pipeline systems.
+How GTM engineers move from static prompts to autonomous agents for outbound. Blueprint GTM's view on Claude Code and data-driven pipeline systems.
 
 ## Transcript
 

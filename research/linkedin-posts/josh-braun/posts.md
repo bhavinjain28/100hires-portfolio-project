@@ -1,6 +1,6 @@
-# Josh Braun — LinkedIn Posts
+# Josh Braun: LinkedIn Posts
 
-## 2025 — 4T framework walkthrough
+## 2025: 4T framework walkthrough
 
 - **URL:** https://www.linkedin.com/posts/josh-braun_lets-write-a-good-cold-email-using-the-4t-activity-7307052447791796224-AXSH
 - **Collected:** 2026-06-20
@@ -17,11 +17,11 @@
 
 ---
 
-## 2024 — Declaring war on boring outreach
+## 2024: Declaring war on boring outreach
 
 - **URL:** https://www.linkedin.com/in/josh-braun/
 - **Collected:** 2026-06-20
 
 > Good cold emails overcome social loafing—they highlight what drew you to this prospect instead of other prospects. Are your emails written for a persona or a person?
 
-**Why collected:** Psychology principle applied to copy—differentiates from mail-merge outreach.
+**Why collected:** Psychology principle applied to copy; differentiates from mail-merge outreach.

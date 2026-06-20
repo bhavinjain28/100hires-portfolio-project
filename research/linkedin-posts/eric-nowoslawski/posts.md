@@ -1,6 +1,6 @@
-# Eric Nowoslawski — LinkedIn Posts
+# Eric Nowoslawski: LinkedIn Posts
 
-## 2023 — 7 cold email tips from a guy that sends over 1,000,000 emails per month
+## 2023: 7 cold email tips from a guy that sends over 1,000,000 emails per month
 
 - **URL:** https://www.linkedin.com/posts/outboundphd_7-cold-email-tips-from-a-guy-that-sends-over-activity-7128010776023306242-OR6H
 - **Collected:** 2026-06-20
@@ -14,11 +14,11 @@
 > 6. Don't be afraid to try something new. It really is great advice to send an email like Hey {{first_name}} -- {{why I'm reaching out to you in particular line}} {{Poke the bear question}} {{Social Proof}} {{Soft CTA}} But after you've nailed this, try something new.
 > 7. Outbound leads are not created equal to Inbound leads. Sometimes the offer that gets people to take action when they are Inbound on your site is NOT the same offer that will get them to take action on Outbound channels. Want me to build you an AI powered cold email system ❌ Sounds bleh on outbound. Want to see how we build custom lists and I'll give you 5000 free leads? ✅ Way better for outbound. Outbound leads are going to take longer to close, so be prepared to do more nurturing.
 
-**Why collected:** Foundational operator mindset — offer quality and list investment before AI personalization tricks. Key principle that AI is a multiplier on a good offer, not a substitute for one.
+**Why collected:** Foundational operator mindset: offer quality and list investment before AI personalization tricks. Key principle that AI is a multiplier on a good offer, not a substitute for one.
 
 ---
 
-## 2023 — AI personalization must be 100% unique to your company
+## 2023: AI personalization must be 100% unique to your company
 
 - **URL:** https://www.linkedin.com/posts/outboundphd_outbound-sellers-should-use-gpt-4-to-create-activity-7110614647543607296-ccKj
 - **Collected:** 2026-06-20
@@ -38,11 +38,11 @@
 >
 > As more digital noise is created in outbound channels, sellers will need to find a way to stand out at scale.
 
-**Why collected:** Defines the correct use of AI in cold email — company-specific, not generic "I saw your LinkedIn profile" personalization. Anti-pattern callout that pairs with Jordan Crawford's PVP thesis.
+**Why collected:** Defines the correct use of AI in cold email: company-specific, not generic "I saw your LinkedIn profile" personalization. Anti-pattern callout that pairs with Jordan Crawford's PVP thesis.
 
 ---
 
-## 2025 — If I had to start cold email from 0
+## 2025: If I had to start cold email from 0
 
 - **URL:** https://www.linkedin.com/posts/outboundphd_if-i-had-to-start-cold-email-from-0-and-wasnt-activity-7340377690224402435-xJk8
 - **Collected:** 2026-06-20
@@ -57,4 +57,4 @@
 >
 > Read "Breakthrough Advertising." Study Josh Braun's content for messaging.
 
-**Why collected:** Step-by-step infrastructure setup from the operator who runs the largest outbound agency in the space — actionable scaffolding for the deliverability section of the playbook.
+**Why collected:** Step-by-step infrastructure setup from the operator who runs the largest outbound agency in the space, providing actionable scaffolding for the deliverability section of the playbook.
