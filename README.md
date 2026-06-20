@@ -60,6 +60,8 @@ We prioritized **practitioners who run outbound systems**, not generic sales mot
 | Kyle Coleman | Enterprise omni-channel; 12yr cold email practitioner |
 | Nick Cegelski | Enterprise AE; cold email teardowns |
 
+Armand Farrokh and Nick Cegelski both co-host 30 Minutes to President's Club but cover distinct angles: Armand brings the operator/VP Sales perspective (built pipeline from $0 to $13M ARR at Pave), while Nick brings enterprise AE deal context and email teardowns. Including both is deliberate — they represent the two dominant lenses on cold email from the same practitioner community.
+
 See [research/sources.md](research/sources.md) for links, collection dates, and annotations.
 
 ## Repository structure

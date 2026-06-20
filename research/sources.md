@@ -73,6 +73,7 @@ Each expert below meets at least two of:
 - **Role:** Sales coach; creator of the 4T cold email framework
 - **LinkedIn:** https://www.linkedin.com/in/josh-braun/
 - **Website:** https://joshbraun.com/
+- **YouTube:** No dedicated channel — content appears on partner channels (Cognism, LeadIQ, Sales Leadership Show). Transcript collected from: https://www.youtube.com/watch?v=9cKZVyAQ3mY
 - **Collected:** 2026-06-20
 - **Why this voice:** Anti-hype copywriter who teaches skeptical-prospect psychology (Trigger → Think → Third-party credibility → Talk). Practical frameworks used by Woodpecker and top SDR teams; avoids "salesy" CTAs.
 
@@ -112,6 +113,7 @@ Each expert below meets at least two of:
 
 - **Role:** Global VP Marketing, ClickUp (formerly Clari, Drift)
 - **LinkedIn:** https://www.linkedin.com/in/kylecoleman1/
+- **YouTube:** https://www.youtube.com/channel/UCDWwkNgHhXC0WY-E9gfe1WQ (own channel); transcript collected from Adam Robinson's *Unf\*ck My Startup*: https://www.youtube.com/watch?v=g9mejr_-odc
 - **Collected:** 2026-06-20
 - **Why this voice:** 12+ years in cold email; authored Clari/Drift outbound playbooks. 5x5x5 research method, relevance-over-personalization thesis, omni-channel systems. Enterprise + PLG perspective on outbound at scale.
 
