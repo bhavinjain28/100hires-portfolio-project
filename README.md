@@ -29,7 +29,7 @@ Research repository for building a **Cold Outreach Pipeline for B2B SaaS** playb
 
 - Practitioners publish tactical, step-by-step content on YouTube (ideal for transcript API collection)
 - The expert pool is deep and differentiated—operators, copy specialists, deliverability engineers, and signal-based GTM builders
-- The topic maps cleanly to a future playbook: ICP → list building → copy → sequences → deliverability → metrics
+- The topic maps cleanly to a structured playbook: ICP → list building → copy → sequences → deliverability → metrics
 - Material is stable (unlike fast-moving AI SEO topics) but still current for 2025–2026
 
 ## What was collected
