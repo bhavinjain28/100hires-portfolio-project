@@ -2,7 +2,7 @@
 
 **Topic:** Cold outreach pipeline for B2B SaaS  
 **Last updated:** 2026-06-20  
-**Collection goal:** 10 high-signal practitioners who build and run outbound systems—not generic sales influencers.
+**Collection goal:** 10 high-signal practitioners who build and run outbound systems.
 
 ## Selection criteria
 
