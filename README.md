@@ -100,8 +100,3 @@ python scripts/fetch_transcripts.py "Jordan Crawford"
 
 Transcripts are written to `research/youtube-transcripts/<author-slug>/<video-id>.md`. The manifest at `research/video-manifest.json` controls which videos are fetched.
 
-## Next steps
-
-- Synthesize collected material into a cold outreach playbook
-- Add podcast transcripts and template artifacts to `/research/other/`
-- Expand transcript collection as experts publish new content
