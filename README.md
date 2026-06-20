@@ -1,18 +1,73 @@
-# Cursor IDE Setup
+# 100Hires Portfolio Project
 
-## Tools Installed
-- Cursor IDE
-- Claude Code extension (Anthropic)
-- Codex extension (OpenAI)
+Research repository for building a **Cold Outreach Pipeline for B2B SaaS** playbook.
 
-## Steps Completed
-1. Installed Cursor IDE on Windows
-2. Installed the Claude Code extension
-3. Installed the Codex extension
-4. Created this public GitHub repository
-5. Cloned the repository, and opened it in Cursor
-6. Wrote this README
-7. Committed and pushed to GitHub
+## Topic choice
 
-## Issues Encountered
-Got a warning about cloning an empty repository. This was expected, since the GitHub repo wasn't initialized with a README at creation time.
+**Cold outreach pipeline for B2B SaaS** was selected because:
+
+- Practitioners publish tactical, step-by-step content on YouTube (ideal for transcript API collection)
+- The expert pool is deep and differentiated—operators, copy specialists, deliverability engineers, and signal-based GTM builders
+- The topic maps cleanly to a future playbook: ICP → list building → copy → sequences → deliverability → metrics
+- Material is stable (unlike fast-moving AI SEO topics) but still current for 2025–2026
+
+## What was collected
+
+| Asset | Count | Location |
+|-------|-------|----------|
+| Experts | 10 | [research/sources.md](research/sources.md) |
+| YouTube transcripts | 13 videos | [research/youtube-transcripts/](research/youtube-transcripts/) |
+| LinkedIn posts | 10 authors | [research/linkedin-posts/](research/linkedin-posts/) |
+| Other materials | 1 summary | [research/other/](research/other/) |
+
+Transcripts were fetched programmatically via `youtube-transcript-api` using [scripts/fetch_transcripts.py](scripts/fetch_transcripts.py) and [research/video-manifest.json](research/video-manifest.json).
+
+## Why these experts
+
+We prioritized **practitioners who run outbound systems**, not generic sales motivation accounts. The 10 experts cover the full pipeline:
+
+| Expert | Angle |
+|--------|-------|
+| Eric Nowoslawski | Agency operator; 8M emails/month; Clay + AI list building |
+| Jordan Crawford | Signal-based GTM; PQS/PVP frameworks |
+| Will Allred | Copy psychology; Lavender email coaching product |
+| Jason Bay | Messaging Matrix; trained Shopify, Gong, Rippling |
+| Josh Braun | 4T framework; skeptical-prospect copy |
+| Nils Schneider | Deliverability infrastructure; Instantly.ai CEO |
+| Armand Farrokh | 3x3 rule; scaled Pave to $13M ARR |
+| Morgan J Ingram | Multi-channel; LinkedIn video outbound |
+| Kyle Coleman | Enterprise omni-channel; 12yr cold email practitioner |
+| Nick Cegelski | Enterprise AE; cold email teardowns |
+
+See [research/sources.md](research/sources.md) for links, collection dates, and annotations.
+
+## Repository structure
+
+```text
+research/
+├── sources.md                 # Expert list with links and rationale
+├── video-manifest.json      # YouTube videos for transcript script
+├── youtube-transcripts/       # Transcripts by author slug
+├── linkedin-posts/          # Posts organized by author
+└── other/                   # Supplementary materials
+scripts/
+└── fetch_transcripts.py     # Fetch and save YouTube transcripts
+```
+
+## Tools used
+
+- Cursor IDE with Claude Code and Codex extensions
+- Python + [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) for transcript collection
+- Manual curation of LinkedIn posts (public posts, collected 2026-06-20)
+
+## Cursor IDE setup (prior step)
+
+- Installed Cursor IDE on Windows
+- Installed Claude Code and Codex extensions
+- Created and cloned this public GitHub repository
+
+## Next steps
+
+- Synthesize collected material into a cold outreach playbook
+- Add podcast transcripts and template artifacts to `/research/other/`
+- Expand transcript collection as experts publish new content
